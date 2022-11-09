@@ -54,7 +54,7 @@
                     </tr>
                         {% for empresa in empresas%}
                         
-                            <tr {% if not forloop.counter|is_par %} class="tabela-linha"> {% endif %}
+                            <tr {% if not forloop.counter|is_par %} class="tabela-linha"{% endif %}>
                                 <td>{{empresa.nome}}</td>
                                 <td>{{empresa.endereco}}</td>
                                 <td>
