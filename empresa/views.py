@@ -75,5 +75,4 @@ def empresa(request, id):
     return render(request, 'empresa_unica.html', {'empresa': empresa,
                                             'tecnologias': tecnologias,
                                             'empresas': empresas,
-                                            'vagas': vagas})
-    
+                                            'vagas': vagas})    
