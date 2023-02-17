@@ -38,7 +38,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="C:\Users\yance\OneDrive\Área de Trabalho\Sistema_de_gerenciamento_de_vagas\venv"
+VIRTUAL_ENV="C:\Users\Yan Kniess\Projetos Python\Sistema_de_gerenciamento_de_vagas\venv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"

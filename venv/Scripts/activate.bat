@@ -8,7 +8,7 @@ if defined _OLD_CODEPAGE (
     "%SystemRoot%\System32\chcp.com" 65001 > nul
 )
 
-set VIRTUAL_ENV=C:\Users\yance\OneDrive\Área de Trabalho\Sistema_de_gerenciamento_de_vagas\venv
+set VIRTUAL_ENV=C:\Users\Yan Kniess\Projetos Python\Sistema_de_gerenciamento_de_vagas\venv
 
 if not defined PROMPT set PROMPT=$P$G
 
